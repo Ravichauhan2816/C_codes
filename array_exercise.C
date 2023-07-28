@@ -5,7 +5,7 @@ int main()
     int data[10]={10,45,66,24,566,7,86,88,66,23};
 
     int key,isFound=0;
-    printf("enter the key to search:");
+    printf("enter the key to the rsearch:");
     scanf("%d",&key);
 
     for (int i = 0; i < 10; i++)
