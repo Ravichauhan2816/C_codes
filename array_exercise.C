@@ -1,7 +1,7 @@
 // 3.
 #include<stdio.h>
 int main()
-{
+{ 
     int data[10]={10,45,66,24,566,7,86,88,66,23};
 
     int key,isFound=0;
